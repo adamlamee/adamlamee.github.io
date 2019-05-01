@@ -14,7 +14,12 @@ ul {
     list-style: disc;
     padding: 0 0 0 20px;
 }
- 
+
+img {
+	max-width:400;
+	height:auto;
+	}
+
 a {
     color: #1D745A;
 }
