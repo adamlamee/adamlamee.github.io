@@ -16,9 +16,9 @@ ul {
 }
 
 img {
-	max-width:400;
+	max-width:400px;
 	height:auto;
-	}
+}
 
 a {
     color: #1D745A;
