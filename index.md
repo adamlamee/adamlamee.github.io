@@ -14,8 +14,8 @@ To provide equal access to STEM careers, every high school student deserves a we
 ### <a href="https://docs.google.com/document/d/1K1fRnznLXvPehSuBASon93PhFCKRc_r6-czXGQJ66rY/edit?usp=sharing">Professional Development</a>  
 I'm active in participating in and facilitating teacher professional development. <a href="https://docs.google.com/document/d/1K1fRnznLXvPehSuBASon93PhFCKRc_r6-czXGQJ66rY/edit?usp=sharing">Read more here</a>.  
 
-### <a href="./coding.html">Coding in K12</a>  
-There's a big push for coding in schools and I absolutely agree that every student should be exposed to programming at some point. Equal access to lucrative careers depends on it. However, I don't think a dedicated computer science course is the answer for all (or even most). Math and science courses are prime territory for this task, particularly high school Physics. <a href="./coding.html">Here are some ways</a> we're making that happen.  
+### <a href="http://codingink12.org">Coding in K12</a>  
+There's a big push for coding in schools and I absolutely agree that every student should be exposed to programming at some point. Equal access to lucrative careers depends on it. However, I don't think a dedicated computer science course is the answer for all (or even most). Math and science courses are prime territory for this task, particularly high school Physics. a href="http://codingink12.org">Here are some ways</a> we're making that happen.  
 
 ### <a href="./teaching.html">Teaching</a>  
 Here you can find course information and activities for my high school Physics courses as well as Physics pedagogy courses at UCF.  
