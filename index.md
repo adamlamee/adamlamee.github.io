@@ -1,6 +1,3 @@
----
-title: home
----
 # My Projects  
 
 ### <a href="https://physics.cos.ucf.edu/phystec">Recruiting Physics Teachers</a>  
