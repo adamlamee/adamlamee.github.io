@@ -17,7 +17,7 @@
 </ul>
 
 <h3>Florida Science Enrollment and Demographics</h3>
-<p>Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="">your Florida school district</a> is doing.</p>
+<p>Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="https://adamlamee.github.io/FL-STEM/">your Florida school district</a> is doing.</p>
 
 <hr />
 
