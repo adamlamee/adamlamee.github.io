@@ -17,48 +17,7 @@
 </ul>
 
 <h3>Florida Science Enrollment and Demographics</h3>
-<p>Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how your Florida school district is doing below.</p>
-<table>
-	<tr><td><a href="./pages/ALACHUA.html">ALACHUA</a></td><td><a href="./pages/BAKER.html">BAKER</a></td></tr>
-	<tr><td><a href="./pages/BAY.html">BAY</a></td><td><a href="./pages/BRADFORD.html">BRADFORD</a></td></tr>
-	<tr><td><a href="./pages/BREVARD.html">BREVARD</a></td><td><a href="./pages/BROWARD.html">BROWARD</a></td></tr>
-	<tr><td><a href="./pages/CALHOUN.html">CALHOUN</a></td><td><a href="./pages/CHARLOTTE.html">CHARLOTTE</a></td></tr>
-	<tr><td><a href="./pages/CITRUS.html">CITRUS</a></td><td><a href="./pages/CLAY.html">CLAY</a></td></tr>
-	<tr><td><a href="./pages/COLLIER.html">COLLIER</a></td><td><a href="./pages/COLUMBIA.html">COLUMBIA</a></td></tr>
-	<tr><td><a href="./pages/MIAMI-DADE.html">MIAMI-DADE</a></td><td><a href="./pages/DESOTO.html">DESOTO</a></td></tr>
-	<tr><td><a href="./pages/DIXIE.html">DIXIE</a></td><td><a href="./pages/DUVAL.html">DUVAL</a></td></tr>
-	<tr><td><a href="./pages/ESCAMBIA.html">ESCAMBIA</a></td><td><a href="./pages/FLAGLER.html">FLAGLER</a></td></tr>
-	<tr><td><a href="./pages/FRANKLIN.html">FRANKLIN</a></td><td><a href="./pages/GADSDEN.html">GADSDEN</a></td></tr>
-	<tr><td><a href="./pages/GILCHRIST.html">GILCHRIST</a></td><td><a href="./pages/GLADES.html">GLADES</a></td></tr>
-	<tr><td><a href="./pages/GULF.html">GULF</a></td><td><a href="./pages/HAMILTON.html">HAMILTON</a></td></tr>
-	<tr><td><a href="./pages/HARDEE.html">HARDEE</a></td><td><a href="./pages/HENDRY.html">HENDRY</a></td></tr>
-	<tr><td><a href="./pages/HERNANDO.html">HERNANDO</a></td><td><a href="./pages/HIGHLANDS.html">HIGHLANDS</a></td></tr>
-	<tr><td><a href="./pages/HILLSBOROUGH.html">HILLSBOROUGH</a></td><td><a href="./pages/HOLMES.html">HOLMES</a></td></tr>
-	<tr><td><a href="./pages/INDIAN_RIVER.html">INDIAN_RIVER</a></td><td><a href="./pages/JACKSON.html">JACKSON</a></td></tr>
-	<tr><td><a href="./pages/JEFFERSON.html">JEFFERSON</a></td><td><a href="./pages/LAFAYETTE.html">LAFAYETTE</a></td></tr>
-	<tr><td><a href="./pages/LAKE.html">LAKE</a></td><td><a href="./pages/LEE.html">LEE</a></td></tr>
-	<tr><td><a href="./pages/LEON.html">LEON</a></td><td><a href="./pages/LEVY.html">LEVY</a></td></tr>
-	<tr><td><a href="./pages/LIBERTY.html">LIBERTY</a></td><td><a href="./pages/MADISON.html">MADISON</a></td></tr>
-	<tr><td><a href="./pages/MANATEE.html">MANATEE</a></td><td><a href="./pages/MARION.html">MARION</a></td></tr>
-	<tr><td><a href="./pages/MARTIN.html">MARTIN</a></td><td><a href="./pages/MONROE.html">MONROE</a></td></tr>
-	<tr><td><a href="./pages/NASSAU.html">NASSAU</a></td><td><a href="./pages/OKALOOSA.html">OKALOOSA</a></td></tr>
-	<tr><td><a href="./pages/OKEECHOBEE.html">OKEECHOBEE</a></td><td><a href="./pages/ORANGE.html">ORANGE</a></td></tr>
-	<tr><td><a href="./pages/OSCEOLA.html">OSCEOLA</a></td><td><a href="./pages/PALM_BEACH.html">PALM_BEACH</a></td></tr>
-	<tr><td><a href="./pages/PASCO.html">PASCO</a></td><td><a href="./pages/PINELLAS.html">PINELLAS</a></td></tr>
-	<tr><td><a href="./pages/POLK.html">POLK</a></td><td><a href="./pages/PUTNAM.html">PUTNAM</a></td></tr>
-	<tr><td><a href="./pages/ST_JOHNS.html">ST JOHNS</a></td><td><a href="./pages/ST_LUCIE.html">ST LUCIE</a></td></tr>
-	<tr><td><a href="./pages/SANTA_ROSA.html">SANTA_ROSA</a></td><td><a href="./pages/SARASOTA.html">SARASOTA</a></td></tr>
-	<tr><td><a href="./pages/SEMINOLE.html">SEMINOLE</a></td><td><a href="./pages/SUMTER.html">SUMTER</a></td></tr>
-	<tr><td><a href="./pages/SUWANNEE.html">SUWANNEE</a></td><td><a href="./pages/TAYLOR.html">TAYLOR</a></td></tr>
-	<tr><td><a href="./pages/UNION.html">UNION</a></td><td><a href="./pages/VOLUSIA.html">VOLUSIA</a></td></tr>
-	<tr><td><a href="./pages/WAKULLA.html">WAKULLA</a></td><td><a href="./pages/WALTON.html">WALTON</a></td></tr>
-	<tr><td><a href="./pages/WASHINGTON.html">WASHINGTON</a></td><td><a href="./pages/DEAF_BLIND.html">DEAF_BLIND</a></td></tr>
-	<tr><td><a href="./pages/FL_VIRTUAL.html">FL_VIRTUAL</a></td><td><a href="./pages/FAU_LAB_SCH.html">FAU_LAB_SCH</a></td></tr>
-	<tr><td><a href="./pages/FSU_LAB_SCH.html">FSU_LAB_SCH</a></td><td><a href="./pages/FAMU_LAB_SCH.html">FAMU_LAB_SCH</a></td></tr>
-	<tr><td><a href="./pages/UF_LAB_SCH.html">UF_LAB_SCH</a></td><td></td></tr>
-</table>
-
-
+<p>Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="">your Florida school district</a> is doing.</p>
 
 <p>To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? Check out the charts linked above.</p>  
 
