@@ -1,7 +1,7 @@
 ---
 title: home
 ---
-*under construction 5/8/19*
+*under construction 5/10/19*
 ### [About me](./bio.md)
 I'm a high school physics teacher who spends most of his time advocating for students and teachers around Florida. Here's what I've been up to lately.
 
