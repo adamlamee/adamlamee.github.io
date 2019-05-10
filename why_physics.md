@@ -1,34 +1,4 @@
 <!DOCTYPE html>
-<html>
-<!-- Big hat tip to Ian Yates for the mobile-friendly styling tips http://tutsplus.com/authors/ian-yates -->
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="./style5.css" />
-	<link rel="shortcut icon" href="./images/fav.ico" type="image/x-icon" />
-	<meta name="author" content="Adam LaMee">
-	<title>adamlamee.com > why physics?</title></title>
-	<script>
-		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-		})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-		
-		ga('create', 'UA-84989522-1', 'auto');
-		ga('send', 'pageview');
-	</script>
-</head>
-<body>
-<nav id="primary_nav">
-	<ul>
-		<li><a class="menu" href="./index.html">ADAMLAMEE.com</a></li>
-		<li><a class="menu" href="./bio.html">- ABOUT ME</a></li>
-		<li><a class="menu" href="./teaching.html">- TEACHING</a></li>
-		<li><a class="menu" href="./coding.html">- CODING in K12</a></li>
-		<li><a class="menu" href="./whyPhysics.html">- WHY PHYSICS?</a></li>
-	</ul>
-</nav>
-
 <article><h1>Why Physics?</h1></article>
 
 <article>
@@ -97,8 +67,5 @@
 <p>If you're still reading this, let me tell you the unlikely tale of two Nathaniels (and former high school students of mine who graciously let me use them as exemplars). After his high school theater experience led to to a gig in the UK, <a href="http://nathanielcompton.com/">Nathaniel Compton</a> decided to switch to computer science. Two years later he's a self-taught programmer without a degree and gainfully employed (moreso than I am, for that matter). What does he chalk it up to? Not being allowed to skimp on high school science and math. Then there's <a href="https://physics.osu.edu/people/amos.93">Nathaniel Amos</a>. As sure as a 16-year-old could be, he was going to study history. Until he decided to change his focus at the end of his junior year in high school. No problem since, at the time, we registered most students for Biology, Chemistry, and Physics unless a parent called the Superintendant. That left this second Nathaniel with the ability to take Calculus and a second year of Physics his senior year. He now studies how students learn calculus through Physics. I'm glad these two Nathaniels found those doors unlocked.
 </article>
 
-</body>
-<footer>
 <p>Copyright Adam LaMee 2019</p>
-</footer>
-</html>
+
