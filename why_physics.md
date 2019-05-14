@@ -16,7 +16,7 @@
 	<li><a href="./whyPhysics/Perez-Felkner-graph.png">Laura Perez-Felkner's graph</a> of the gender gap in 10th graders' perception of math ability, which can fuel the gap in enrollment when registration choices are left to the student (<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00386/full" target="_blank">Laura's paper</a>)</li>
 </ul>
 
-<h3>Florida Science Enrollment and Demographics</h3>
+<h3><a href="https://adamlamee.github.io/FL-STEM/">Florida Science Enrollment and Demographics</a></h3>
 <p>Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="https://adamlamee.github.io/FL-STEM/">your Florida school district</a> is doing.</p>
 
 <hr />
