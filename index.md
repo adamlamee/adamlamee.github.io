@@ -1,7 +1,6 @@
 ---
 title: home
 ---
-*under construction 5/10/19*
 
 ### <a href="./why_physics">Improving K16 STEM Education</a>  
 To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? <a href="./why_physics">Try this</a>. I'm also active in the <a href="http://flaapt.us/">Florida Chapter of the American Association of Physics Teachers</a> and <a href="https://quarknet.i2u2.org/">Quarknet</a> particle physics outreach.  
