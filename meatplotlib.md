@@ -6,7 +6,7 @@ title: meeatplotlib
 
 ## The Porkchop Plot  
 The plot that started it all. It's a meat-based rocket logistics visualization. Here's a [nice summary from NASA JPL](https://mars.jpl.nasa.gov/spotlight/porkchopAll.html). ht to [Caley Burke](https://www.caleyburke.com/) for sharing some wisdom.  
-<a href="https://upload.wikimedia.org/wikipedia/en/7/70/Porkchop_plot.gif" width="200">  
+<a href="https://upload.wikimedia.org/wikipedia/en/7/70/Porkchop_plot.gif"><img src="https://upload.wikimedia.org/wikipedia/en/7/70/Porkchop_plot.gif" width="200"></a>  
 
 ## Down with the pie: a subtle argument for bacon  
 ![Bacon plot](href="https://www.darkhorseanalytics.com/blog/salvaging-the-pie)  
