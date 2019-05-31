@@ -1,5 +1,5 @@
 ---
-title: meeatplotlib
+title: meatplotlib
 ---
 
 # Welcome to meatplotlib.org!  
