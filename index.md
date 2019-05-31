@@ -20,4 +20,4 @@ A little project spoofing Python's ubiquitous MatPlotLib graphing module and shi
 ### [About me](./about_me)  
 I'm a high school physics teacher who spends most of his time advocating for students and teachers around Florida. [Here's what I've been up to lately](./about_me).
 
-Looking for something else? Drop me a line at adamlamee[at]gmail. Cheers, Adam  
+Looking for something else? Drop me a line at adamlamee@gmailcom.
