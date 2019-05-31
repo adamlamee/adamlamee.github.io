@@ -2,7 +2,7 @@
 title: about me
 ---
 
-# BIO
+# about me
 
 Adam LaMee (B.S. Physics, B.S. Anthropology, FSU) is now the <a href="http://physics.cos.ucf.edu/phystec/">PhysTEC</a> Teacher-in-Residence in the <a href="http://physics.cos.ucf.edu/phystec/">University of Central Florida's Physics department</a> working on teacher recruitment, post-secondary teaching reforms, and K-12 teacher support. Adam's professional activities include:  
 <ul>
@@ -14,5 +14,3 @@ Adam LaMee (B.S. Physics, B.S. Anthropology, FSU) is now the <a href="http://phy
 
 
 Looking for my CV in a tidy pdf? <a href="./LaMee_CV_web.pdf">click here</a>.
-
-Copyright Adam LaMee 2019
