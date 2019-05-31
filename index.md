@@ -8,7 +8,7 @@ To provide equal access to STEM careers, every high school student deserves a we
 ### [Coding in K12](http://codingink12.org)  
 There's a big push for coding in schools and I absolutely agree that every student should be exposed to programming at some point. Equal access to lucrative careers depends on it. However, I don't think a dedicated computer science course is the answer for all (or even most). Math and science courses are prime territory for this task, particularly high school Physics. [Here are some ways I'm making that happen](http://codingink12.org).  
 
-### [Recruiting Physics Teachers](https://physics.cos.ucf.edu/phystec)    
+### [Recruiting Physics Teachers](https://sciences.ucf.edu/physics/phystec/)    
 I'm currently the PhysTEC Teacher-in-Residence in the UCF Physics department where I recruit undergraduate Physics and Engineering majors to consider teaching high school Physics when they graduate. Check out the <a href="https://physics.cos.ucf.edu/phystec">UCF PhysTEC site</a> for more info.  
 
 ### Professional Development  
