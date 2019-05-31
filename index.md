@@ -14,8 +14,8 @@ I'm currently the PhysTEC Teacher-in-Residence in the UCF Physics department whe
 ### Professional Development  
 I'm active in participating in and facilitating teacher professional development in K12 physical science, coding, argumentation, and cross-curriculur collaborations. Want to work together? Drop me a line at adamlamee@gmail.com.    
 
-### [MeatPlotLib](./meatplotlib.html)    
-A little project spoofing Python's ubiquitous MatPlotLib graphing module and shining a spotlight on [meat-themed data viz](./meatplotlib.html).  
+### [MeatPlotLib](./meatplotlib)    
+A little project spoofing Python's ubiquitous MatPlotLib graphing module and shining a spotlight on [meat-themed data viz](./meatplotlib).  
 
 ### [About me](./about_me)
 I'm a high school physics teacher who spends most of his time advocating for students and teachers around Florida. [Here's what I've been up to lately](./about_me).
