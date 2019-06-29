@@ -4,7 +4,7 @@ title: about me
 
 # about me  
 Adam LaMee (B.S. Physics, B.S. Anthropology, FSU) is the [PhysTEC Teacher-in-Residence](https://sciences.ucf.edu/physics/phystec/) in the University of Central Florida's Physics department working on teacher recruitment, post-secondary teaching reforms, and K-12 teacher support. Adam's professional activities include:  
-## K12 teacher professional development  
+## Leading teacher professional development  
 - Lead facilitator of the [BIOSCOPES Summer Institute](http://www.cpalms.org/stemlearn/stemlearn.aspx)  
 - [Quarknet Teaching and Learning Fellow](https://quarknet.org/) coordinating the [Particle Physics Data Camp](https://quarknet.org/page/data-camp-description) at Fermilab each summer   
 - Presenter on argumention, assessment, writing strategies, and coding at [NSTA](http://www.nsta.org) and [AAPT](http://www.aapt.org/) national conferences  
