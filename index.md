@@ -2,8 +2,8 @@
 title: home
 ---
 
-### [Improving K16 STEM Education](./why_physics)    
-To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? That's on my [K16 STEM page](./why_physics). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  
+### [Improving STEM Education](./stem_ed)    
+To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  
 
 ### [Coding in K12](http://codingink12.org)  
 There's a big push for coding in schools and I absolutely agree that every student should be exposed to programming at some point. Equal access to lucrative careers depends on it. However, I don't think a dedicated computer science course is the answer for all (or even most). Math and science courses are prime territory for this task, particularly high school Physics. [Here are some ways I'm making that happen](http://codingink12.org).  
