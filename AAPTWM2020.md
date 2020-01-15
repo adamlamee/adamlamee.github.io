@@ -1,3 +1,7 @@
+---
+title: AAPT WM 2020
+---
+
 # Local Guide to the AAPT 2020 Winter Meeting
 
 - 10:AM Saturday: brunch at The COOP; near the workshops at Rollins College
