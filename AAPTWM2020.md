@@ -11,7 +11,7 @@ Workshops are held 35 minutes north of the conference hotel at Rollins College (
 - Brunch at [The COOP](https://asouthernaffair.com/) 10:AM Saturday with some Florida AAPT folks and Quarknet staff. This will be the best southern food outside of your granma's kitchen you'll have all year.  
 - [Skycraft Parts & Surplus](https://skycraftsurplus.com) is a cross between Radio Shack, 7-11, Army surplus, and NASA junkyard. Looking for 200 stainless ball bearings, bulk LEDs, or an oscilloscope from SkyLab? Leave room in your suitcase. Open 8:30AM-6:00PM Saturday, closed Sunday.  
 - The [Morse Museum](http://www.morsemuseum.org/) has a stunning collection of Tiffany stained glass, the largest in the world. Closed Mondays.  
-- Park Ave. ([map]()) is a high-end shopping and dining area. Great for a stroll and people watching, too.  
+- Park Ave. ([map](https://goo.gl/maps/msrpBg1EfgMrAozC7)) is a high-end shopping and dining area. Great for a stroll and people watching, too.  
 ## Near the Conference  
 - The site of the Pulse nightclub attack has become a beautiful tribute to love and loss ([map](https://goo.gl/maps/DJxc84khhE7oyWPz8)). It's a 20-minute drive toward downtown that's worth your while.  
 - [Disney Springs](https://www.disneysprings.com/) is a nearby shopping and eating district with all things Disney. The conference hotel [provides a shuttle every evening](https://www.cariberoyale.com/faq/do-you-have-transportation-to-the-local-theme-parks/).  
