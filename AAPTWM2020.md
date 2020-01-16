@@ -5,7 +5,7 @@ title: AAPT WM 2020
 # Local Guide to the AAPT 2020 Winter Meeting  
 Orlando has great things to offer whether you're interested in craft beer and food, an amazing LGBTQ+ community, live music, or sports. I'm an Orlando resident, President of the Florida section of AAPT, and PhysTEC Teacher-in-Residence at UCF Physics. This page is mine and not affiliated with the [AAPT 2020 Winter Meeting](https://www.aapt.org/Conferences/wm2020/index.cfm). If you can't find what you're looking for here, drop me a line at adamlamee@gmail.com or catch me at my talk *Modern Research Data to Enrich the K12 Classroom* 2:00 Sunday in AC02.  
 ## Getting around  
-- Welcome to central Florida! We don't do mass transit for visitors very well. Without a rental car? We have lots of Uber and Lyft. Taxis, busses, and trains aren't as helpful here. Also see the hotel shuttle, below.    
+- Welcome to central Florida! We don't do mass transit for visitors very well. Without a rental car? We have lots of Uber and Lyft. Taxis, busses, and trains aren't as helpful here. Also see the hotel shuttle, below.  
 ## Near the workshops
 Workshops are held 35 minutes north of the conference hotel at Rollins College ([map](https://goo.gl/maps/UJw99uWWwfKghbXw9)) in Winter Park. While you're there, try  
 - Brunch at [The COOP](https://asouthernaffair.com/) 10:AM Saturday with some Florida AAPT folks and Quarknet staff. This will be the best southern food outside of your granma's kitchen you'll have all year.  
