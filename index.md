@@ -2,6 +2,9 @@
 title: home
 ---
 
+### AAPT 2020 Winter Meeting  
+Dowload my presentation: *Modern Research Data to Enrich the K12 Classroom* ([pptx](https://drive.google.com/open?id=1wV1FQc4csCMxghxqrVo-pm06WpRI5349)) ([pdf](https://drive.google.com/open?id=108fWOvuxacHydzZYThvjkvpf54CJmIkf)).  
+
 ### [Improving STEM Education](./stem_ed)    
 To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  
 
