@@ -2,11 +2,10 @@
 
 Why is it so important to take Physics (along with Biology and Chemistry) in high school? Here's some evidence that convinced my colleagues and me.
 
-- [Tyson's chart](./whyPhysics/Tyson_chart.png) of the impact of HS science courses on college success (<a href="./whyPhysics/Cottle_Blessing_TPT.pdf">original paper</a>)  
-- <a href="./whyPhysics/Georgetown_chart.png">Georgetown's chart</a> of median wages of various college majors (<a href="https://cew.georgetown.edu/cew-reports/valueofcollegemajors/" target="_blank">project site</a>)  
-- <a href="./whyPhysics/Cottle_chart.png">Paul Cottle's chart</a> of % of graduating high school seniors having taken Physics, by FL School District (<a href="https://bridgetotomorrow.wordpress.com/2019/02/11/which-districts-are-best-in-2018-19-at-preparing-their-students-for-college-stem-majors-seminole-and-brevard-counties-again/" target="_blank">Paul's blog</a>)  
-- <a href="./whyPhysics/Perez-Felkner-graph.png">Laura Perez-Felkner's graph</a> of the gender gap in 10th graders' perception of math ability, which can fuel the gap in enrollment when registration choices are left to the student (<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00386/full" target="_blank">Laura's paper</a>)  
-
+- [Tyson's chart](./whyPhysics/Tyson_chart.png) of the impact of HS science courses on college success ([paper](./whyPhysics/Cottle_Blessing_TPT.pdf))  
+- [Georgetown's chart](./whyPhysics/Georgetown_chart.png) of median wages of various college majors ([project site](https://cew.georgetown.edu/cew-reports/valueofcollegemajors/))  
+- [Paul Cottle's chart](./whyPhysics/Cottle_chart.png) of % of graduating high school seniors having taken Physics, by FL School District ([Paul's blog](https://bridgetotomorrow.wordpress.com/2019/02/11/which-districts-are-best-in-2018-19-at-preparing-their-students-for-college-stem-majors-seminole-and-brevard-counties-again/))  
+- [Laura Perez-Felkner's graph](./whyPhysics/Perez-Felkner-graph.png) of the gender gap in 10th graders' perception of math ability, which can fuel the gap in enrollment when registration choices are left to the student ([paper](https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00386/full))
 
 > "... High school students hoping to complete a college degree in engineering or engineering technology should include a full year each of chemistry, physics, and (at least) pre-calculus." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Society for Engineering Education (ASEE)</a>
 
