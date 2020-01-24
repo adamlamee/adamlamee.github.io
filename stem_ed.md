@@ -1,15 +1,16 @@
 # Why Physics?  
 
-Why is it so important to take Physics (along with Biology and Chemistry) in high school? Here's some evidence that convinced my colleagues and me.  
+Why is it so important to take Physics (along with Biology and Chemistry) in high school? Here's some evidence that convinced my colleagues and me.
 
-> "... High school students hoping to complete a college degree in engineering or engineering technology should include a full year each of chemistry, physics, and (at least) pre-calculus." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Society for Engineering Education (ASEE)</a>  
-
-> "These rates are simply unacceptable in a 21st century economy dependent on a STEM-educated workforce." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Physical Society (APS), commenting on the U.S.'s low high school Physics enrollment.</a>  
-
-- <a href="./whyPhysics/Tyson_chart.png">Tyson's chart</a> of the impact of HS science courses on college success (<a href="./whyPhysics/Cottle_Blessing_TPT.pdf">original paper</a>)  
+- [Tyson's chart](./whyPhysics/Tyson_chart.png) of the impact of HS science courses on college success (<a href="./whyPhysics/Cottle_Blessing_TPT.pdf">original paper</a>)  
 - <a href="./whyPhysics/Georgetown_chart.png">Georgetown's chart</a> of median wages of various college majors (<a href="https://cew.georgetown.edu/cew-reports/valueofcollegemajors/" target="_blank">project site</a>)  
 - <a href="./whyPhysics/Cottle_chart.png">Paul Cottle's chart</a> of % of graduating high school seniors having taken Physics, by FL School District (<a href="https://bridgetotomorrow.wordpress.com/2019/02/11/which-districts-are-best-in-2018-19-at-preparing-their-students-for-college-stem-majors-seminole-and-brevard-counties-again/" target="_blank">Paul's blog</a>)  
 - <a href="./whyPhysics/Perez-Felkner-graph.png">Laura Perez-Felkner's graph</a> of the gender gap in 10th graders' perception of math ability, which can fuel the gap in enrollment when registration choices are left to the student (<a href="https://www.frontiersin.org/articles/10.3389/fpsyg.2017.00386/full" target="_blank">Laura's paper</a>)  
+
+
+> "... High school students hoping to complete a college degree in engineering or engineering technology should include a full year each of chemistry, physics, and (at least) pre-calculus." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Society for Engineering Education (ASEE)</a>
+
+> "These rates are simply unacceptable in a 21st century economy dependent on a STEM-educated workforce." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Physical Society (APS), commenting on the U.S.'s low high school Physics enrollment.</a>
 
 ## [Florida Science Enrollment and Demographics](https://adamlamee.github.io/FL-K12-analyses/)  
 Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="https://adamlamee.github.io/FL-K12-analyses/">your Florida school district</a> is doing.  
