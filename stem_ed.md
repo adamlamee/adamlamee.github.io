@@ -12,8 +12,9 @@ Why is it so important to take Physics (along with Biology and Chemistry) in hig
 > "These rates are simply unacceptable in a 21st century economy dependent on a STEM-educated workforce." — <a href="https://www.aps.org/policy/analysis/assee-board.cfm">American Physical Society (APS), commenting on the U.S.'s low high school Physics enrollment.</a>
 
 ## [Florida Science Enrollment and Demographics](https://adamlamee.github.io/FL-K12-analyses/)  
-Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="https://adamlamee.github.io/FL-K12-analyses/">your Florida school district</a> is doing.  
-___  
+Presented at the 2019 Spring meeting of the Florida Association of Science Supervisors, these data show multi-year trends in course enrollment and the demographic differences between course areas. See how <a href="https://adamlamee.github.io/FL-K12-analyses/">your Florida school district</a> is doing.
+
+---
 
 To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? Check out the charts linked above.  
 
