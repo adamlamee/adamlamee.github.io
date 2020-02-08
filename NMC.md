@@ -2,7 +2,7 @@
 title: NMC @ UCF
 ---
 
-# Local Guide to the National Mentoring Community matteing @ UCF  
+# Local Guide to the National Mentoring Community meeting @ UCF  
 Orlando has great things to offer whether you're interested in craft beer and food, an amazing LGBTQ+ community, live music, or sports. I'm an Orlando resident, President of the Florida section of AAPT, and PhysTEC Teacher-in-Residence at UCF Physics. FYI: this page is mine and not affiliated with the NMC.  
 
 ## Getting around  
