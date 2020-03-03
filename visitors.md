@@ -2,7 +2,7 @@
 title: Visitors Guide
 ---
 
-# Local Guide for scientists and educators visiting UCF and the Orlando area 
+# Local Guide for scientists and educators 
 Orlando has great things to offer whether you're interested in craft beer and food, an amazing LGBTQ+ community, live music, or sports. I'm an Orlando resident, President of the Florida section of AAPT, and PhysTEC Teacher-in-Residence at UCF Physics. This page is mine and not affiliated with any other organization. If you can't find what you're looking for here, drop me a line at adamlamee@gmail.com.  
 
 ## Getting around  
