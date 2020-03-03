@@ -11,12 +11,12 @@ Orlando has great things to offer whether you're interested in craft beer and fo
 ## Near the city center
 - The site of the Pulse nightclub attack has become a beautiful tribute to love and loss ([map](https://goo.gl/maps/DJxc84khhE7oyWPz8)). It's worth any visitor's while.  
 - [Drunken Monkey Coffee Bar](https://goo.gl/maps/kL2YvT4usvm3xEmk6) is local favorite with some of the best vegan options around (non-vegan stuff, too).
-- [Pom Pom's Teachouse and Sandwicheria](https://goo.gl/maps/7MukA6eoMxDPqk1d8) will be one of the highlights you'll share when people ask you "how was oyur trip?"  
+- [Pom Pom's Teachouse and Sandwicheria](https://goo.gl/maps/7MukA6eoMxDPqk1d8) will be one of the highlights you'll share when people ask you "how was your trip?"  
 - Lake Eola([map](https://goo.gl/maps/RC6pp2j4uvkZu2Cq9)) is our lovely urban lake, famous for its swans and oddly-shaped fountain. Nice dining options, too.  
 - Want to feel like you aren't in a city? Downtown's Dickinson Azalea Park and Langford Park ([map](https://goo.gl/maps/qzoEBdYA77Bjdt6AA)) are gorgous and serene.  
 
 ## Near UCF  
-- [4 Rivers Smokehouse](https://g.page/4RUCF?share) makes some of the finest BBQ in town. I reccommend the brisket, pulled pork, mac and cheese, buent ends, ribs, fried okra, BBQ chicken, ...  
+- [4 Rivers Smokehouse](https://g.page/4RUCF?share) makes some of the finest BBQ in town. I reccommend the brisket, pulled pork, mac and cheese, burnt ends, ribs, fried okra, BBQ chicken, ...  
 - [Lazy Moon](https://www.lazymoonpizza.com/) is college pizza place you're looking for with 36" slices and a good beer selection.  
 - [Habanero's Mexican Grill](https://goo.gl/maps/2sNhdJT5Gx4k1Avm9) has great food and prices.  
 - The [UCF Arboretum](https://arboretum.ucf.edu/) ([map](https://goo.gl/maps/Lp9z2sqGas6BTq4q9)) offers a nice walk through native surroundings.  
