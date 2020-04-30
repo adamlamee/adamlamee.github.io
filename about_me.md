@@ -33,8 +33,8 @@ title: about me
 15 years: Quarknet Teaching & Learning Fellow and US-CMS RET Fellow  
 ## Education  
 M.S. Industrial Engineering, University of Central Florida  
-'+' 27 graduate credits in Physics  
-'+' 9 graduate credits in Education  
+/+ 27 graduate credits in Physics  
+/+ 9 graduate credits in Education  
 B.S. Physics w/Education focus & B.S. Anthropology, Florida State University  
 ## Publications  
 - Hutner, T., Sampson, V., **LaMee, A.**, FitzPatrick, D., Batson, A., & Aguilar-Landaverde, J. (2020). *Argument-Driven Inquiry in Physics, Volume 2: Electricity and Magnetism Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
