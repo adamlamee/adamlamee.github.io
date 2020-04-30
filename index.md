@@ -3,7 +3,7 @@ title: home
 ---
 
 ### [About me](./about_me)  
-I'm a physics teacher and data scientist who spends 150% of his time advocating for students and teachers around Florida. Still curious? Read out more [about me](./about_me).  
+I'm a physics teacher and data scientist who spends 150% of his time advocating for students and teachers around Florida. I'm also on the job hunt, thanks to COVID-19 budget uncertainty. Read out more [about me](./about_me).  
 
 ### [Coding in K12](http://codingink12.org)  
 Just about every student should be exposed to programming at some point. My project, [Coding in K12](http://codingink12.org), offers a way for K12 teachers with no programming experience to give meaningful coding experiences to their students while also addressing regular course content. [Here's what that looks like](http://codingink12.org).  
