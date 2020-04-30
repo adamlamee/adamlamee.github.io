@@ -2,22 +2,19 @@
 title: home
 ---
 
-### [Improving STEM Education](./stem_ed)    
-To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Want to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  
+### [About me](./about_me)  
+I'm a physics teacher and data scientist who spends 150% of his time advocating for students and teachers around Florida. Still curious? Read out more [about me](./about_me).  
 
 ### [Coding in K12](http://codingink12.org)  
-There's a big push for coding in schools and I absolutely agree that every student should be exposed to programming at some point. Equal access to lucrative careers depends on it. However, I don't think a dedicated computer science course is the answer for all (or even most). Math and science courses are prime territory for this task, particularly high school Physics. [Here are some ways I'm making that happen](http://codingink12.org).  
+Just about every student should be exposed to programming at some point. My project, [Coding in K12](http://codingink12.org), offers a way for K12 teachers with no programming experience to give meaningful coding experiences to their students while also addressing regular course content. [Here's what that looks like](http://codingink12.org).  
+
+### [Improving STEM Education](./stem_ed)    
+To provide equal access to STEM careers, every high school student deserves a well-rounded science education. For a student planning on any technical or academic work after high school, they need to have had full years each of Biology, Chemistry, and Physics. Need to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  
 
 ### [Recruiting Physics Teachers](https://sciences.ucf.edu/physics/phystec/)    
-I'm currently the PhysTEC Teacher-in-Residence in the UCF Physics department where I recruit undergraduate Physics and Engineering majors to consider teaching high school Physics when they graduate. Check out the [UCF PhysTEC site](https://sciences.ucf.edu/physics/phystec/) for more info.  
-
-### [Professional Development](./about_me)  
-I'm active in participating in and facilitating teacher professional development in K12 physical science, coding, argumentation, and cross-curriculur collaborations. Want to work together? Drop me a line at adamlamee@gmail.com.    
+Since 2015 I've been the PhysTEC Teacher-in-Residence in the UCF Physics department where I recruit STEM majors to consider teaching high school Physics when they graduate. Check out the [UCF PhysTEC site](https://sciences.ucf.edu/physics/phystec/) for more info.  
 
 ### [MeatPlotLib](./meatplotlib)    
 A little project spoofing Python's ubiquitous MatPlotLib graphing module and shining a spotlight on [meat-themed data viz](./meatplotlib).  
-
-### [About me](./about_me)  
-I'm a high school physics teacher who spends most of his time advocating for students and teachers around Florida. [Here's what I've been up to lately](./about_me).
 
 Looking for something else? Drop me a line at adamlamee@gmailcom.
