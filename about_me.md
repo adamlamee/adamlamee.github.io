@@ -37,6 +37,8 @@ M.S. Industrial Engineering, University of Central Florida
 \+ 9 graduate credits in Education  
 B.S. Physics w/Education focus & B.S. Anthropology, Florida State University  
 ## Publications  
-- Hutner, T., Sampson, V., **LaMee, A.**, FitzPatrick, D., Batson, A., & Aguilar-Landaverde, J. (2020). *Argument-Driven Inquiry in Physics, Volume 2: Electricity and Magnetism Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
-- Sampson, V., Hutner, T., FitzPatrick, D., **LaMee, A.**, & Grooms, J. (2017). *Argument-Driven Inquiry in Physics, Volume 1: Mechanics Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
-- Sherdan, D., Anderson, A., Rouby, A., **Lamee, A.**, Gilmer, P., & Oosterhof, A. (2014). *Including Often-Missed Knowledge and Skills in Science Assessments*. Science Scope, 038(01). doi:10.2505/4/ss14_038_01_56  
+Hutner, T., Sampson, V., **LaMee, A.**, FitzPatrick, D., Batson, A., & Aguilar-Landaverde, J. (2020). *Argument-Driven Inquiry in Physics, Volume 2: Electricity and Magnetism Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
+
+Sampson, V., Hutner, T., FitzPatrick, D., **LaMee, A.**, & Grooms, J. (2017). *Argument-Driven Inquiry in Physics, Volume 1: Mechanics Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
+
+Sherdan, D., Anderson, A., Rouby, A., **Lamee, A.**, Gilmer, P., & Oosterhof, A. (2014). *Including Often-Missed Knowledge and Skills in Science Assessments*. Science Scope, 038(01). doi:10.2505/4/ss14_038_01_56  
