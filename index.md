@@ -16,5 +16,3 @@ Since 2015 I've been the PhysTEC Teacher-in-Residence in the UCF Physics departm
 
 ### [MeatPlotLib](./meatplotlib)    
 A little project spoofing Python's ubiquitous MatPlotLib graphing module and shining a spotlight on [meat-themed data viz](./meatplotlib).  
-
-Looking for something else? Drop me a line at adamlamee@gmailcom.
