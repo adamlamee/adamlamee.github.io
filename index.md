@@ -2,7 +2,7 @@
 title: home
 ---
 
-### [About me](./about_me)  
+### About Me  
 I'm a physics teacher, project manager, and data scientist who spends 150% of his time advocating for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
 
 ### [Coding in K12](http://codingink12.org)  
