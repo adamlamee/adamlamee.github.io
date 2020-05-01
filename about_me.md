@@ -18,7 +18,7 @@ title: about me
 - Writing & presenting for diverse stakeholders, large international team collaboration  
 - HTML/CSS/GitHub pages/Jekyll, WordPress, Mailchimp, AV production, MS Office, G Suite  
 ## Data Science  
-- Analytics & visualization with Python/pandas/NumPy/SciPy/Matplotlib/Bokeh  
+- Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh  
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
 - Mac/Windows/*nix, GCC & AWS, Git & GitHub, VirtualBox  
 ## Laboratory  
