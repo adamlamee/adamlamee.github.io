@@ -3,7 +3,7 @@ title: home
 ---
 
 ### About Me  
-I'm a physics educator, project manager, and data scientist advocating for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
+I'm a physics educator, project manager, and data scientist who advocates for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
 
 ### Coding in K12  
 Just about every student should be exposed to programming at some point. My project, [Coding in K12](http://codingink12.org), offers a way for K12 teachers with no programming experience to give meaningful coding experiences to their students while also addressing regular course content. [Here's what that looks like](http://codingink12.org).  
