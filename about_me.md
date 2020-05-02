@@ -22,15 +22,15 @@ title: about me
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
 - Mac/Windows/*nix, GCC & AWS, Git & GitHub, VirtualBox  
 ## Laboratory  
-- Digital & analog data acquisition, photonics, microprocessors, CERN US-CMS  
+- Digital & analog data acquisition, PMT/SiPM/photonics R&D, CERN US-CMS HCAL  
 - Safety and access-control for particle beam, radiation, & cryogenics  
 - Carpentry, electrical, plumbing, automotive, small engine, lift, dump truck, mill  
 ---  
 ## Employment  
 5 years: PhysTEC Teacher-in-Residence, Physics Dept., University of Central Florida  
-2 years: Researcher, large-scale K12 science assessments, Florida State University  
+9 years: Researcher, large-scale/game/performance assessments, Florida State University  
 8 years: High school Teacher, Department Chair, trainer & mentor  
-15 years: Quarknet Teaching & Learning Fellow and US-CMS RET Fellow  
+15 years: Quarknet Teaching & Learning Fellow, US-CMS Teacher Fellow  
 ## Education  
 M.S. Industrial Engineering, University of Central Florida  
 \+ 27 graduate credits in Physics  
