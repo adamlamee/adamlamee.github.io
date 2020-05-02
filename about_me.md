@@ -2,6 +2,8 @@
 title: about me
 ---
 
+Download [my CV](./LaMee-CV.pdf)  
+
 ## Teaching  
 - Physics with active learning, supporting diversity & equity, K12 to undergraduate  
 - Inquiry, computation, coding, 5E, Arduino, video analysis, mixed-mode & remote  
