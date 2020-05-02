@@ -8,35 +8,42 @@ title: about me
 - Integrating research data into course content, international outreach leadership  
 - Faculty training in pedagogy, argumentation, assessment, & course design  
 - State education policy & advocacy, K12 to post-secondary articulation  
+
 ## Project Management  
 - Department Chair, AAPT section President, Learning Assistant program Director  
 - Quality & systems engineering, corporate finance, innovation & creative teams  
 - Program evaluation in K12 & undergraduate, Baldrige Framework, RTOP  
 - Training development & facilitation, conference planning  
+
 ## Communication & Collaboration  
 - Trained educator and advocate for diversity & inclusion  
 - Writing & presenting for diverse stakeholders, large international team collaboration  
 - HTML/CSS/GitHub pages/Jekyll, WordPress, Mailchimp, AV production, MS Office, G Suite  
+
 ## Data Science  
 - Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh  
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
 - Mac/Windows/*nix, GCC & AWS, Git & GitHub, VirtualBox  
 ## Laboratory  
+
 - Digital & analog data acquisition, PMT/SiPM/photonics R&D, CERN US-CMS HCAL  
 - Safety and access-control for particle beam, radiation, & cryogenics  
 - Carpentry, electrical, plumbing, automotive, small engine, lift, dump truck, mill  
+
 ---  
 ## Employment  
 5 years: PhysTEC Teacher-in-Residence, Physics Dept., University of Central Florida  
 9 years: Researcher, large-scale/game/performance assessments, Florida State University  
 8 years: High school Teacher, Department Chair, trainer & mentor  
 15 years: Quarknet Teaching & Learning Fellow, US-CMS Teacher Fellow  
+
 ## Education  
 M.S. Industrial Engineering, University of Central Florida  
 \+ 27 graduate credits in Physics  
 \+ 9 graduate credits in Education  
 
 B.S. Physics w/Education focus & B.S. Anthropology, Florida State University  
+
 ## Publications  
 Hutner, T., Sampson, V., **LaMee, A.**, FitzPatrick, D., Batson, A., & Aguilar-Landaverde, J. (2020). *Argument-Driven Inquiry in Physics, Volume 2: Electricity and Magnetism Lab Investigations for Grades 9–12*. Arlington, VA: NSTA Press, National Science Teachers Association.  
 
