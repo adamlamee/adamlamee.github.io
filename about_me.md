@@ -2,7 +2,7 @@
 title: about me
 ---
 
-Download [my CV](./LaMee-CV.pdf)  
+Download [my CV](./LaMee-CV.pdf).  
 
 ## Teaching  
 - Physics with active learning, supporting diversity & equity, K12 to undergraduate  
