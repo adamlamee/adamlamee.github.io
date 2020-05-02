@@ -24,8 +24,8 @@ title: about me
 - Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh  
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
 - Mac/Windows/*nix, GCC & AWS, Git & GitHub, VirtualBox  
-## Laboratory  
 
+## Laboratory  
 - Digital & analog data acquisition, PMT/SiPM/photonics R&D, CERN US-CMS HCAL  
 - Safety and access-control for particle beam, radiation, & cryogenics  
 - Carpentry, electrical, plumbing, automotive, small engine, lift, dump truck, mill  
