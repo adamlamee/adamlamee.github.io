@@ -25,7 +25,7 @@ I'm an educator, physicist, industrial engineer, and data scientist. I mostly us
 ## Data Science  
 - Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh  
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
-- Mac/Windows/*nix, GCC & AWS, Git & GitHub, VirtualBox  
+- Mac/Windows/\*nix newtowrking, GCC & AWS, Git & GitHub, VirtualBox  
 
 ## Laboratory  
 - Digital & analog data acquisition, PMT/SiPM/photonics R&D, CERN US-CMS HCAL  
