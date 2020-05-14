@@ -2,7 +2,7 @@
 title: about me
 ---
 
-I'm an educator, physicist, industrial engineer, and data scientist. I mostly use those skills to advocate for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or download [my CV](./LaMee-CV.pdf).  
+I'm an educator, physicist, industrial engineer, and data scientist. I mostly use those skills to advocate for students and teachers around Florida. If your organization does great things and needs a creative and supportive project manager, data scientist, and educator, send an email to adamlamee@gmail.com or download [my CV](./LaMee-CV.pdf).  
 
 ## Teaching  
 - Physics with active learning, supporting diversity & equity, K12 to undergraduate  
