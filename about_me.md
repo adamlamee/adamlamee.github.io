@@ -14,22 +14,27 @@ I'm an educator, physicist, industrial engineer, and data scientist. I mostly us
 ## Project Management  
 - Department Chair, AAPT section President, Learning Assistant program Director  
 - Quality & systems engineering, corporate finance, innovation & creative teams  
+- Supply chain, risk, & human capital management  
 - Program evaluation in K12 & undergraduate, Baldrige Framework, RTOP  
+- Continuous improvement using Lean Six Sigma, DMAIC, Root Cause analysis, & Failure Mode and Effects Analysis
+- Full life cycle and multiple, independent projects  
 - Training development & facilitation, conference planning  
 
 ## Communication & Collaboration  
-- Trained educator and advocate for diversity & inclusion  
-- Writing & presenting for diverse stakeholders, large international team collaboration  
+- Trained educator and advocate for diversity & inclusion 
+- Complex technical writing & presenting to diverse stakeholders, C-level to hourly  
+- Mentoring and training for professional and academic success, entry- to senior-level  
+- Interdisciplinary and cross-functional teams, large international team collaboration  
 - HTML/CSS/GitHub pages/Jekyll, WordPress, Mailchimp, AV production, MS Office, G Suite  
 
 ## Data Science  
-- Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh  
+- Analytics & visualization with Python/pandas/NumPy/SciPy/statsmodels/Matplotlib/Bokeh/SQL  
 - Jupyter/JupyterHub, Binder/Colab/Azure, Tableau, LabView, Gaussian, video analysis  
 - Mac/Windows/\*nix networking, GCC & AWS, Git & GitHub, VirtualBox  
 
 ## Laboratory  
 - Digital & analog data acquisition, PMT/SiPM/photonics R&D, CERN US-CMS HCAL  
-- Safety and access-control for particle beam, radiation, & cryogenics  
+- Safety regulations and access-control for particle beam, radiation, hazmat, & cryogenics  
 - Carpentry, electrical, plumbing, automotive, small engine, lift, dump truck, mill  
 
 ---  
