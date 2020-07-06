@@ -9,7 +9,7 @@ title: meatplotlib
 It's 2020 and amid a global pandemic [two graphic powerhouses](https://www.nasa.gov/audience/forstudents/5-8/features/symbols-of-nasa.html) are duking it out. Which one will win? The meatball is meaty, but worms are also made of meat (probably not as tasty though). [SpaceX](https://www.space.com/nasa-worm-logo-is-back-spacex-demo-2-rocket.html) has chosen a side. Are you still on the fence? This [design-focused history of NASA's logos](https://www.wired.com/2015/09/nasa-graphics-standards-manual/) may help.  
 
 ## Down with the pie: a subtle argument for bacon  
-![Bacon plot](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)  
+[Bacon plot](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)  
 This lovely ditty comes from the killer data vis blog from [Darkhorse Analytics](https://www.darkhorseanalytics.com/blog), written by [Joey Cherdarchuk](https://www.darkhorseanalytics.com/joey/). While the author is Canadian, the bacon is strikingly linear.  
 
 ## The Porkchop Plot  
