@@ -2,7 +2,7 @@
 title: about me
 ---
 
-I'm an educator, physicist, industrial engineer, and data scientist. I mostly use those skills to advocate for students and teachers around Florida. If your organization does great things and needs a creative, supportive team member or project manager, send an email to adamlamee@gmail.com or download [my CV](./LaMee-CV.pdf).  
+I'm an educator, physicist, data scientist, and industrial engineer. I spend most of my time advocating for students and teachers around Florida. If your organization does great things and needs a creative, supportive team member or project manager, send an email to adamlamee@gmail.com or download [my CV](./LaMee-CV.pdf).  
 
 ## Teaching  
 - Physics with active learning, supporting diversity & equity, K12 to undergraduate  
@@ -41,7 +41,7 @@ I'm an educator, physicist, industrial engineer, and data scientist. I mostly us
 ## Employment  
 5 years: PhysTEC Teacher-in-Residence, Physics Dept., University of Central Florida  
 9 years: Researcher, large-scale/game/performance assessments, Florida State University  
-8 years: High school Teacher, Department Chair, trainer & mentor  
+10 years: High school Teacher, Department Chair, trainer & mentor  
 15 years: Quarknet Teaching & Learning Fellow, US-CMS Teacher Fellow  
 
 ## Education  
