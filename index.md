@@ -2,6 +2,8 @@
 title: home
 ---
 
+AAPT WM21 Talk "Teaching Science Content with Jupyter at Scale, Elementary Grades Through University" ([slides](https://drive.google.com/file/d/1pwU4BxDAhvsdkPkI2Kmr3sEM9hP5e-K4/view?usp=sharing))
+
 ### About Me  
 I'm an educator, physicist, industrial engineer, and data scientist. I mostly use those skills to advocate for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
 
