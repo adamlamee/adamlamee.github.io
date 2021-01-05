@@ -3,8 +3,8 @@ title: home
 ---
 
 ### Coming Soon
-- "Getting into K12 Classrooms: A large-scale partnership between UCF Physics and local schools integrating data science into core middle grades curriculum with free, open source materials" at the South Big Data Innovation Hub's [Data Science Education & Workforce Working Group](https://southbigdatahub.org/education-workforce-working-group/)  
-- "Teaching Science Content with Jupyter at Scale, Elementary Grades Through University" ([slides](https://drive.google.com/file/d/1pwU4BxDAhvsdkPkI2Kmr3sEM9hP5e-K4/view?usp=sharing)) at the American Assoc. of Physics Teachers Winter Meeting 2021  
+- Friday, Jan 8: "Getting into K12 Classrooms: A large-scale partnership between UCF Physics and local schools integrating data science into core middle grades curriculum with free, open source materials" at the South Big Data Innovation Hub's [Data Science Education & Workforce Working Group](https://southbigdatahub.org/education-workforce-working-group/)  
+- Monday, Jan 11: "Teaching Science Content with Jupyter at Scale, Elementary Grades Through University" ([slides](https://drive.google.com/file/d/1pwU4BxDAhvsdkPkI2Kmr3sEM9hP5e-K4/view?usp=sharing)) at the American Assoc. of Physics Teachers Winter Meeting 2021  
 
 ### About Me  
 I'm an educator, physicist, industrial engineer, and data scientist. I mostly use those skills to advocate for students and teachers around Florida. If your organization is looking for curious minds who want to do great things, send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
