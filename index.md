@@ -3,7 +3,7 @@ title: home
 ---
 
 ### About Me  
-I'm an educator, physicist, industrial engineer, and data scientist. I use those skills to advocate for students and teachers form K12 to university. I'm always interested in collaborating with curious minds who want to do great things. Send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
+I'm an educator, physicist, industrial engineer, and data scientist. I use those skills to advocate for students and teachers from K12 to university. I'm always interested in collaborating with curious minds who want to do great things. Send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
 
 ### Coding in K12  
 [Coding in K12](http://codingink12.org) offers a way for K12 teachers with no programming experience to give meaningful coding experiences to their students while also addressing regular course content. Embedding our coding activities into core courses improves equity and access, regardless of background or family income, for thousands of students. [Here's what that looks like](http://codingink12.org).  
