@@ -2,6 +2,9 @@
 title: home
 ---
 
+### Upcoming talks  
+I'll be leading a working session on *Course Design to Maximize Learning* at the 2023 Curriculum Alignment Conference in Daytona Beach. You can [view my slides here](https://docs.google.com/presentation/d/1p0dflX85-10PLgsbPuQOciwwEDP8KGyNQ1zWrke3CWc/edit?usp=sharing).  
+
 ### About Me  
 I'm an educator, physicist, industrial engineer, and data scientist. I use those skills to advocate for students and teachers from K12 to university. I'm always interested in collaborating with curious minds who want to do great things. Send an email to adamlamee@gmail.com or read out more [about me](./about_me).  
 
