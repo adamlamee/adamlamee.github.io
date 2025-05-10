@@ -9,9 +9,8 @@ title: meatplotlib
 [Two graphic powerhouses](https://www.nasa.gov/audience/forstudents/5-8/features/symbols-of-nasa.html) are duking it out. Which one will win? The meatball is meaty, but worms are also made of meat (probably not as tasty though). Have you chosen a side? This [design-focused history of NASA's logos](https://www.wired.com/2015/09/nasa-graphics-standards-manual/) may help.  
 
 ## Down with the pie: a subtle argument for bacon  
-<img src="https://images.squarespace-cdn.com/content/v1/56713bf4dc5cb41142f28d1f/1453096130503-8ZQQAFVU2IL9VCKXWAO0/image-asset.png" width="300">
-[Bacon plot](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)  
-This lovely ditty comes from the killer data vis blog from [Darkhorse Analytics](https://www.darkhorseanalytics.com/blog), written by [Joey Cherdarchuk](https://www.darkhorseanalytics.com/joey/). While the author is Canadian, the bacon is strikingly linear.  
+<img src="https://images.squarespace-cdn.com/content/v1/56713bf4dc5cb41142f28d1f/1453096130503-8ZQQAFVU2IL9VCKXWAO0/image-asset.png" width="300">  
+Learn about chart formatting in an engaging context: bacon! [Salvaging the pie](https://www.darkhorseanalytics.com/blog/salvaging-the-pie) will help you not ever use a pie chart again (adn your audience will thank you). This lovely ditty comes from the killer data vis blog from [Darkhorse Analytics](https://www.darkhorseanalytics.com/blog), written by [Joey Cherdarchuk](https://www.darkhorseanalytics.com/joey/). While the author is Canadian, the bacon is strikingly linear.  
 
 ## The Porkchop Plot  
 The plot that started it all. It's a meat-based rocket logistics visualization. Here's a [nice summary from NASA JPL](https://mars.jpl.nasa.gov/spotlight/porkchopAll.html). ht to rocket scientist [Caley Burke](https://www.caleyburke.com/) for sharing some wisdom.  
