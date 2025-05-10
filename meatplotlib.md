@@ -15,6 +15,7 @@ Learn about chart formatting in an engaging context: bacon! [Salvaging the pie](
 
 ## The Porkchop Plot  
 The plot that started it all. It's a meat-based rocket logistics visualization. Here's a [nice summary from NASA JPL](https://mars.jpl.nasa.gov/spotlight/porkchopAll.html). ht to rocket scientist [Caley Burke](https://www.caleyburke.com/) for sharing some wisdom.  
+  
 <a href="https://en.wikipedia.org/wiki/Porkchop_plot"><img src="https://upload.wikimedia.org/wikipedia/en/7/70/Porkchop_plot.gif" width="200"></a>  
 
 ## Contribute a meatplot  
