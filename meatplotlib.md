@@ -5,8 +5,8 @@ title: meatplotlib
 # Welcome to meatplotlib.org!  
 
 ## Blue Meatball vs. Red Worm  
-<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/nasa-logo-web-rgb.png" width="200"><img src="https://www.nasa.gov/sites/default/files/thumbnails/image/s75-31690.jpeg" width="300">  
-It's 2020 and amid a global pandemic [two graphic powerhouses](https://www.nasa.gov/audience/forstudents/5-8/features/symbols-of-nasa.html) are duking it out. Which one will win? The meatball is meaty, but worms are also made of meat (probably not as tasty though). [SpaceX](https://www.space.com/nasa-worm-logo-is-back-spacex-demo-2-rocket.html) has chosen a side. Are you still on the fence? This [design-focused history of NASA's logos](https://www.wired.com/2015/09/nasa-graphics-standards-manual/) may help.  
+<img src="https://www.nasa.gov/wp-content/uploads/2023/04/nasa-logo-web-rgb.png" width="200"><img src="https://www.nasa.gov/wp-content/uploads/2018/07/s75-31690.jpeg" width="300">  
+[Two graphic powerhouses](https://www.nasa.gov/audience/forstudents/5-8/features/symbols-of-nasa.html) are duking it out. Which one will win? The meatball is meaty, but worms are also made of meat (probably not as tasty though). Have you chosen a side? This [design-focused history of NASA's logos](https://www.wired.com/2015/09/nasa-graphics-standards-manual/) may help.  
 
 ## Down with the pie: a subtle argument for bacon  
 [Bacon plot](https://www.darkhorseanalytics.com/blog/salvaging-the-pie)  
