@@ -8,8 +8,8 @@ I'm an educator, physicist, industrial engineer, and data scientist. I use those
 ### Coding in K12  
 [Coding in K12](http://codingink12.org) offers a way for K12 teachers with no programming experience to give meaningful coding experiences to their students while also addressing regular course content. Embedding our coding activities into core courses improves equity and access, regardless of background or family income, for thousands of students. [Here's what that looks like](http://codingink12.org).  
 
-<!-- ### Supporting STEM Education  
-Every high school student deserves a well-rounded science education to have equal access to STEM careers. For a student planning on any technical or academic work after high school, they need to have a full year each of Biology, Chemistry, and Physics. Making that happen may be easier than you think. Need to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in the [Florida Chapter of the American Association of Physics Teachers](http://flaapt.us) and [Quarknet](https://quarknet.org/) particle physics outreach.  -->
+### Supporting STEM Education  
+Every high school student deserves a well-rounded science education to have equal access to STEM careers. For a student planning on any technical or academic work after high school, they need to have a full year each of Biology, Chemistry, and Physics. Making that happen may be easier than you think. Need to see some data to back that up? That's on my [STEM Education page](./stem_ed). I'm also active in [Quarknet](https://quarknet.org/) particle physics outreach.
 
 ### Recruiting Physics Teachers  
 Since 2023 I've been the Project Lead on [PhysTEC](https://phystec.org/). Prior to that, I was the PhysTEC Teacher-in-Residence in the [UCF Physics department](https://sciences.ucf.edu/physics/) where I recruited STEM majors to consider teaching high school Physics when they graduate.
