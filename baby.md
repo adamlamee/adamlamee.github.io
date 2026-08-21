@@ -12,6 +12,6 @@ You can view Cassian's registries at:
 [Walmart](https://www.walmart.com/registry/BR/ad39ea70-6ffe-4d37-a9a8-d14ba584faca)
 [Crate & Barrel](https://www.crateandbarrel.com/gift-registry/adam-lamee-and-natalie-papienski/r7612879)
 Knowing you may want to get him cute things to wear, we didn’t include clothing in the registries. You’re welcome to take that in whatever direction calls to you. Not limited to these, but Cass’s signature colors are blue-grey and yellow-gold with patterns including lions, dinosaurs, stars/planets, and Star Wars.
-<img_src="nat.jpg">
-<img_src="fam.jpg">
+<img_src="nat.jpg">  
+<img_src="fam.jpg">  
 <img_src="pre-cass.jpg">
