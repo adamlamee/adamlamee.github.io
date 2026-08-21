@@ -7,7 +7,7 @@ He came a little early and is still in the NICU, but doing really great and gain
  <img src="nat.jpg" width="300">  
 
 You can view Cassian's registries at:
-- [Walmart](https://www.walmart.com/registry/BR/ad39ea70-6ffe-4d37-a9a8-d14ba584faca)  
+- [Walmart](https://www.walmart.com/registry/BR/ad39ea70-6ffe-4d37-a9a8-d14ba584faca){:target="_blank"}  
 - [Crate & Barrel](https://www.crateandbarrel.com/gift-registry/adam-lamee-and-natalie-papienski/r7612879)
 
 Friends have set up a [MealTrain](https://www.mealtrain.com/trains/me5v86) if you'd like to participate.  
