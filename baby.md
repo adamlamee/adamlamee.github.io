@@ -2,11 +2,11 @@
 
 <img src="cass.jpg" width="300">
 
-He came a little early and is still in the NICU, but doing really great and gaining plenty of weight. It was a bit of a nervous pregnancy with Cass being so tiny (born at 3 lbs 10 oz), so we opted to plan a shower once he's home with us. That could be whenever he’s taking 100% of his milk via mouth rather than by tube. Maybe late August? Maybe September? We’re visiting him daily for lots of love and skin-to-skin time. Natalie’s taking time to heal and Adam’s home from work for three months. All good things. 
+He came a little early and is still in the NICU, but doing really great and gaining plenty of weight. It was a bit of a nervous pregnancy with Cass being so tiny (born at 3 lbs 10 oz), so we opted to plan a shower once he's home with us. That could be whenever he’s taking 100% of his milk via mouth rather than by tube. Maybe late August? Maybe September? We’re visiting him daily for lots of love and skin-to-skin time. Natalie’s taking time to heal and Adam’s home from work for three months. All good things.  
 
-Reminder for those up for visiting Cass when he gets home: you’ll need a recent TDAP booster until he’s 6 months old.
+ <img src="nat.jpg" width="300">  
 
-<img src="nat.jpg" width="300">  
+Reminder for those up for visiting Cass when he gets home: you’ll need a recent TDAP booster until he’s 6 months old.  
 
 Friends have set up a [MealTrain](https://www.mealtrain.com/trains/me5v86) if you'd like to participate.
 
@@ -16,5 +16,6 @@ You can view Cassian's registries at:
 
 <img src="fam.jpg" width="300">  
 
-Knowing you may want to get him cute things to wear, we didn’t include clothing in the registries. You’re welcome to take that in whatever direction calls to you. Not limited to these, but Cass’s signature colors are blue-grey and yellow-gold with patterns including lions, dinosaurs, stars/planets, and Star Wars.
+Knowing you may want to get him cute things to wear, we didn’t include clothing in the registries. You’re welcome to take that in whatever direction calls to you. Not limited to these, but Cass’s signature colors are blue-grey and yellow-gold with patterns including lions, dinosaurs, stars/planets, and Star Wars.  
+
 <img src="pre-cass.jpg" width="300">
